@@ -1,0 +1,29 @@
+body{
+    background-color: greenyellow;
+
+   }
+   .formdesign {
+     background-color: orange;
+     color: white;
+     font-family: sans-serif;
+     margin: 100px;
+     padding: 30px;
+   }
+   .design{
+         width: 150px; 
+         margin-left: 70px;
+         padding:3px;
+   }
+   .design-1{
+         width: 150px; 
+         margin-left: 40px;
+        
+         padding:3px;
+   }
+   .design-2{
+         width: 150px; 
+         margin-left: 4px;
+        
+         padding:3px;
+   }
+   
